@@ -19,7 +19,7 @@
 <p>En comparación con la media mundial, Argentina está a la vanguardia del desarrollo de las telecomunicaciones, teniendo para el 2020 un total de 62,12 millones conexiones.</p>
 <p>En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el resto de los servicios.</p>
 
-<p>Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide visualizar en un dashboard 4 KPI's producto de su análisis.</p>
+<p>Con el fin de monitorear la eficacia de los objetivos de la empresa, se desarrolla en un dashboard 4 KPI's .</p>
 <br>
 
 ## **Pasos del proyecto**
