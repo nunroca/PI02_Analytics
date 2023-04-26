@@ -40,8 +40,8 @@ Finalmente la lectura en conjunto de los KPIs propuestos permitirán abordar a l
 Hay 2 archivos principales: EDA y Dashboard. El primero es un notebook con el código correspondiente a la importación y transformación de los datos.
 El Dashboard es un archivo de Power BI con los datos limpios ya importados, y una presentación con 4 KPIs funcional.
 Además hay un archivo Informe EDA con la información relevante al porqué de los datos usados y los criterios para sus transformaciones.
-Por último existen dos carpetas contenedoras de los archivos CSV de donde se extrajeron los datos. En una están los archivos en bruto (nombrados para identificar a qué KPI corresponden) y en la segunda los archivos ya tienen las transformaciones y están listos para levantar en Power BI (u otro).
+Por último existen una carpetas contenedoras de los archivos CSV de donde se extrajeron los datos.
 
 
 **`Repositorio`**
-
+                    https://github.com/nunroca/PI02_Analytics
